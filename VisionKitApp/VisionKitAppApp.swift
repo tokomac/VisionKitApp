@@ -2,7 +2,7 @@
 //  VisionKitAppApp.swift
 //  VisionKitApp
 //
-//  Created by 木科誠 on 2023/07/09.
+//  Created by tokomac.
 //
 
 import SwiftUI
