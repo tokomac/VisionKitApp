@@ -1,7 +1,8 @@
 # VisionKitApp
 
 # summary
-MusicKit<br>
+Vision<br>
+VisionKit<br>
 ・Document Scanning and Text Analysis<br>
 ・Barcode scanning and analysis<br>
 ・Live Text<br>
